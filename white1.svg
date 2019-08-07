@@ -2,7 +2,7 @@
 <defs>
 <radialGradient id="gradient" cx="30%" cy="30%" r="70%">
 <stop offset="0%" stop-color="#ffffff"/>
-<stop offset="100%" stop-color="#cccccc"/>
+<stop offset="100%" stop-color="#d6d1cb"/>
 </radialGradient>
 </defs>
 <circle fill="url(#gradient)" cx="50%" cy="50%" r="50%"/>
